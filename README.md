@@ -2,7 +2,7 @@
 
 
 ## Project Description:
-As nowadays we usually do shopping based on other users reviews on amazon. So reviews matters a most. 
+As nowadays we usually do shopping based on other users reviews on amazon. So reviews matters the most. 
 Here Based on that reviews I have developed a system which tells whether particular review is positive or not.
 
 ## Requirement
